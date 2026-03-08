@@ -2,7 +2,7 @@
 
 **Backend developer from Ekateringburg. Currently I study in Ural Federal University**
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-sht&theme=dark&hide_border=false" />
 </div>
 
@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-4169e1?style=for-the-badge&logo=redis&logoColor=white" /> 
 
-<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Github%20Actions-9370db?style=for-the-badge&logo=githubactions&logoColor=white" /> 
 
 ## 📫 How to reach me
 
