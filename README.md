@@ -3,7 +3,7 @@
 **Backend developer from Ekateringburg. Currently I study in Ural Federal University**
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-sht&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=g-sht&theme=cobalt&hide_border=true" alt="g-sht's GitHub Stats" />
 </div>
 
 ## 💻 Tech Stack
