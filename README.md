@@ -1,6 +1,7 @@
 # Hi 👋, I'm Georgy Shtyfman
 
-**Backend developer from Ekateringburg. Currently I study in Ural Federal University**
+**Backend developer from Ekateringburg. Currently study in Ural Federal University.  
+Looking for internship opportunities.**
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=g-sht&theme=cobalt&hide_border=true" alt="g-sht's GitHub Stats" />
@@ -8,11 +9,21 @@
 
 ## 💻 Tech Stack
 
-<img src="https://img.shields.io/badge/Go-FFA500?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> 
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-4169e1?style=for-the-badge&logo=redis&logoColor=white" /> 
-
-<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Github%20Actions-9370db?style=for-the-badge&logo=githubactions&logoColor=white" /> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
 ## 📫 How to reach me
 
