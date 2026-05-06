@@ -3,10 +3,6 @@
 **Backend developer from Ekateringburg. Currently study in Ural Federal University.  
 Looking for internship opportunities.**
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=g-sht&theme=cobalt&hide_border=true" alt="g-sht's GitHub Stats" />
-</div>
-
 ## 💻 Tech Stack
 
 <div align="left">
